@@ -7,6 +7,6 @@
 - [8,11,12,16,21,22] -> Final merging
 - -------------------------------------------------------------------------------------------------------------------------
 ##  Big O Notation  
-Every merge needs (n-1) comparisons(n=array size) EXP: [16] & [11,21] = [11,16,21] -> So 3 value and 2 coomparisons   
-How deep my level? 2^x=n -> x=logn 
+Every merge needs (n-1) comparisons(n=array size) EXP: [16] & [11,21] = [11,16,21] -> So 3 value and 2 comparisons     
+How deep my level? 2^x=n -> x=logn   
 n.logn=O(nlogn) --> **Big O Notation**
